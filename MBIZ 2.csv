@@ -1,0 +1,3 @@
+tahun,kd_klpd,nama_klpd,kd_satker,nama_satker,order_id,order_desc,valuasi,kategori,metode_bayar,tanggal_transaksi,marketplace,merchant_name,jenis_transaksi,kota_kab,provinsi,nama_pemesan,status_verif,sumber_data,status_konfirmasi_ppmse,keterangan_ppmse
+2025,"D107","Kab. Bandung","60442","SEKRETARIAT DAERAH","4397296",,75000000,,"transfer","2025-06-14 14:07:35","mbiz market",,"bela","Bandung (Kab.)","Jawa Barat","Nuratry Ambarwati","verified","api_v3","gagal","Payment Kadaluarsa"
+2025,"D107","Kab. Bandung","60442","SEKRETARIAT DAERAH","4397276",,74999999,,"transfer","2025-06-14 14:05:22","mbiz market",,"bela","Bandung (Kab.)","Jawa Barat","Nuratry Ambarwati","verified","api_v3","gagal","RFQ Dibatalkan Pembeli"
