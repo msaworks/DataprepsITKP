@@ -1,0 +1,2597 @@
+[
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14632,
+        "nama_kabkota": "Aceh Barat Daya (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14649,
+        "nama_kabkota": "Aceh Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14647,
+        "nama_kabkota": "Aceh Besar (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14630,
+        "nama_kabkota": "Aceh Jaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14642,
+        "nama_kabkota": "Aceh Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14644,
+        "nama_kabkota": "Aceh Singkil (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14631,
+        "nama_kabkota": "Aceh Tamiang (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14648,
+        "nama_kabkota": "Aceh Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14640,
+        "nama_kabkota": "Aceh Tenggara (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14641,
+        "nama_kabkota": "Aceh Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14639,
+        "nama_kabkota": "Aceh Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14638,
+        "nama_kabkota": "Banda Aceh (Kota)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14637,
+        "nama_kabkota": "Bener Meriah (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14646,
+        "nama_kabkota": "Bireuen (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14633,
+        "nama_kabkota": "Gayo Lues (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14634,
+        "nama_kabkota": "Langsa (Kota)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14635,
+        "nama_kabkota": "Lhokseumawe (Kota)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14629,
+        "nama_kabkota": "Nagan Raya (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 16000,
+        "nama_kabkota": "Pidie Jaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14645,
+        "nama_kabkota": "Pidie (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14636,
+        "nama_kabkota": "Sabang (Kota)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 14643,
+        "nama_kabkota": "Simeulue (Kab.)"
+    },
+    {
+        "kd_provinsi": 1,
+        "kd_kabkota": 16001,
+        "nama_kabkota": "Subulussalam (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14652,
+        "nama_kabkota": "Asahan (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16050,
+        "nama_kabkota": "Batubara (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14663,
+        "nama_kabkota": "Binjai (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14669,
+        "nama_kabkota": "Dairi (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14667,
+        "nama_kabkota": "Deli Serdang (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16060,
+        "nama_kabkota": "Gunung Sitoli (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14674,
+        "nama_kabkota": "Humbang Hasundutan (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14670,
+        "nama_kabkota": "Karo (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14653,
+        "nama_kabkota": "Labuhan Batu (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16051,
+        "nama_kabkota": "Labuhan Batu Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16053,
+        "nama_kabkota": "Labuhan Batu Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14668,
+        "nama_kabkota": "Langkat (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14654,
+        "nama_kabkota": "Mandailing Natal (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14666,
+        "nama_kabkota": "Medan (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16059,
+        "nama_kabkota": "Nias Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14655,
+        "nama_kabkota": "Nias (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14673,
+        "nama_kabkota": "Nias Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16054,
+        "nama_kabkota": "Nias Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16052,
+        "nama_kabkota": "Padang Lawas (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 16055,
+        "nama_kabkota": "Padang Lawas Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14664,
+        "nama_kabkota": "Padang Sidempuan (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14671,
+        "nama_kabkota": "Pakpak Bharat (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14660,
+        "nama_kabkota": "Pematang Siantar (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14672,
+        "nama_kabkota": "Samosir (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14661,
+        "nama_kabkota": "Serdang Bedagai (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14662,
+        "nama_kabkota": "Sibolga (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14658,
+        "nama_kabkota": "Simalungun (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14659,
+        "nama_kabkota": "Tanjung Balai (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14657,
+        "nama_kabkota": "Tapanuli Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14656,
+        "nama_kabkota": "Tapanuli Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14651,
+        "nama_kabkota": "Tapanuli Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14665,
+        "nama_kabkota": "Tebing Tinggi (Kota)"
+    },
+    {
+        "kd_provinsi": 2,
+        "kd_kabkota": 14650,
+        "nama_kabkota": "Toba Samosir (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14693,
+        "nama_kabkota": "Agam (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14682,
+        "nama_kabkota": "Bukit Tinggi (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14677,
+        "nama_kabkota": "Dharmas Raya (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14687,
+        "nama_kabkota": "Kepulauan Mentawai (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14690,
+        "nama_kabkota": "Lima Puluh Kota (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14675,
+        "nama_kabkota": "Padang (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14679,
+        "nama_kabkota": "Padang Panjang (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14692,
+        "nama_kabkota": "Padang Pariaman (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14680,
+        "nama_kabkota": "Pariaman (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14678,
+        "nama_kabkota": "Pasaman Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14691,
+        "nama_kabkota": "Pasaman (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14683,
+        "nama_kabkota": "Payakumbuh (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14688,
+        "nama_kabkota": "Pesisir Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14686,
+        "nama_kabkota": "Sawahlunto"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14676,
+        "nama_kabkota": "Sawah Lunto (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 268938,
+        "nama_kabkota": "Sijunjung(Kab)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14685,
+        "nama_kabkota": "Solok (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14681,
+        "nama_kabkota": "Solok (Kota)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14684,
+        "nama_kabkota": "Solok Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 3,
+        "kd_kabkota": 14689,
+        "nama_kabkota": "Tanah Datar (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14698,
+        "nama_kabkota": "Bengkalis (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14696,
+        "nama_kabkota": "Dumai (Kota)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14702,
+        "nama_kabkota": "Indragiri Hilir (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14704,
+        "nama_kabkota": "Indragiri Hulu (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14694,
+        "nama_kabkota": "Kampar (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14703,
+        "nama_kabkota": "Kuantan Singingi (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 16038,
+        "nama_kabkota": "Meranti (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14700,
+        "nama_kabkota": "Pekanbaru (Kota)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14701,
+        "nama_kabkota": "Pelalawan (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14699,
+        "nama_kabkota": "Rokan Hilir (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14697,
+        "nama_kabkota": "Rokan Hulu (Kab.)"
+    },
+    {
+        "kd_provinsi": 4,
+        "kd_kabkota": 14695,
+        "nama_kabkota": "Siak (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14709,
+        "nama_kabkota": "Batang Hari (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14705,
+        "nama_kabkota": "Bungo (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14707,
+        "nama_kabkota": "Jambi (Kota)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14706,
+        "nama_kabkota": "Kerinci (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14711,
+        "nama_kabkota": "Merangin (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14714,
+        "nama_kabkota": "Muaro Jambi (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14710,
+        "nama_kabkota": "Sarolangun (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 16006,
+        "nama_kabkota": "Sungai Penuh (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14712,
+        "nama_kabkota": "Tanjung Jabung Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14713,
+        "nama_kabkota": "Tanjung Jabung Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 5,
+        "kd_kabkota": 14708,
+        "nama_kabkota": "Tebo (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14720,
+        "nama_kabkota": "Banyuasin (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 16049,
+        "nama_kabkota": "Empat Lawang (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14727,
+        "nama_kabkota": "Lahat (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14717,
+        "nama_kabkota": "Lubuk Linggau (Kota)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14724,
+        "nama_kabkota": "Muara Enim (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14721,
+        "nama_kabkota": "Musi Banyu Asin (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14726,
+        "nama_kabkota": "Musi Rawas (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 16067,
+        "nama_kabkota": "Musi Rawas Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14719,
+        "nama_kabkota": "Ogan Ilir (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14725,
+        "nama_kabkota": "Ogan Komering Ilir (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14728,
+        "nama_kabkota": "Ogan Komering Ulu (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14723,
+        "nama_kabkota": "Ogan Komering Ulu Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14722,
+        "nama_kabkota": "Ogan Komering Ulu Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14718,
+        "nama_kabkota": "Pagar Alam (Kota)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14716,
+        "nama_kabkota": "Palembang (Kota)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 27009,
+        "nama_kabkota": "Penukal Abab Lematang Ilir (Kab.)"
+    },
+    {
+        "kd_provinsi": 6,
+        "kd_kabkota": 14715,
+        "nama_kabkota": "Prabumulih (Kota)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14737,
+        "nama_kabkota": "Bengkulu (Kota)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14731,
+        "nama_kabkota": "Bengkulu Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 16004,
+        "nama_kabkota": "Bengkulu Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14733,
+        "nama_kabkota": "Bengkulu Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14732,
+        "nama_kabkota": "Kaur (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14736,
+        "nama_kabkota": "Kepahiang (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14730,
+        "nama_kabkota": "Lebong (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14734,
+        "nama_kabkota": "Mukomuko (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14729,
+        "nama_kabkota": "Rejang Lebong (Kab.)"
+    },
+    {
+        "kd_provinsi": 7,
+        "kd_kabkota": 14735,
+        "nama_kabkota": "Seluma (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14744,
+        "nama_kabkota": "Bandar Lampung (Kota)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14739,
+        "nama_kabkota": "Lampung Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14742,
+        "nama_kabkota": "Lampung Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14745,
+        "nama_kabkota": "Lampung Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14747,
+        "nama_kabkota": "Lampung Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14746,
+        "nama_kabkota": "Lampung Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 16016,
+        "nama_kabkota": "Mesuji (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14741,
+        "nama_kabkota": "Metro (Kota)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 16014,
+        "nama_kabkota": "Pesawaran (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 27005,
+        "nama_kabkota": "Pesisir Barat(Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 16017,
+        "nama_kabkota": "Pringsewu (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14738,
+        "nama_kabkota": "Tanggamus (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 16015,
+        "nama_kabkota": "Tulang Bawang Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14743,
+        "nama_kabkota": "Tulang Bawang (Kab.)"
+    },
+    {
+        "kd_provinsi": 8,
+        "kd_kabkota": 14740,
+        "nama_kabkota": "Way Kanan (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15056,
+        "nama_kabkota": "Bangka Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15060,
+        "nama_kabkota": "Bangka (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15062,
+        "nama_kabkota": "Bangka Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15059,
+        "nama_kabkota": "Bangka Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15061,
+        "nama_kabkota": "Belitung (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15057,
+        "nama_kabkota": "Belitung Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 9,
+        "kd_kabkota": 15058,
+        "nama_kabkota": "Pangkal Pinang (Kota)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 15064,
+        "nama_kabkota": "Batam (Kota)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 16012,
+        "nama_kabkota": "Bintan (Kab.)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 15066,
+        "nama_kabkota": "Karimun (Kab.)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 16013,
+        "nama_kabkota": "Kepulauan Anambas (Kab.)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 15063,
+        "nama_kabkota": "Lingga (Kab.)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 15068,
+        "nama_kabkota": "Natuna (Kab.)"
+    },
+    {
+        "kd_provinsi": 10,
+        "kd_kabkota": 15065,
+        "nama_kabkota": "Tanjung Pinang (Kota)"
+    },
+    {
+        "kd_provinsi": 11,
+        "kd_kabkota": 14753,
+        "nama_kabkota": "Adm. Kepulauan Seribu (Kab.)"
+    },
+    {
+        "kd_provinsi": 11,
+        "kd_kabkota": 14750,
+        "nama_kabkota": "Jakarta Barat (Kota)"
+    },
+    {
+        "kd_provinsi": 11,
+        "kd_kabkota": 14748,
+        "nama_kabkota": "Jakarta Pusat (Kota)"
+    },
+    {
+        "kd_provinsi": 11,
+        "kd_kabkota": 14752,
+        "nama_kabkota": "Jakarta Selatan (Kota)"
+    },
+    {
+        "kd_provinsi": 11,
+        "kd_kabkota": 14749,
+        "nama_kabkota": "Jakarta Timur (Kota)"
+    },
+    {
+        "kd_provinsi": 11,
+        "kd_kabkota": 14751,
+        "nama_kabkota": "Jakarta Utara (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 16007,
+        "nama_kabkota": "Bandung Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14773,
+        "nama_kabkota": "Bandung (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14765,
+        "nama_kabkota": "Bandung (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14777,
+        "nama_kabkota": "Banjar (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14768,
+        "nama_kabkota": "Bekasi (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14770,
+        "nama_kabkota": "Bekasi (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14772,
+        "nama_kabkota": "Bogor (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14763,
+        "nama_kabkota": "Bogor (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14754,
+        "nama_kabkota": "Ciamis (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14774,
+        "nama_kabkota": "Cianjur (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14775,
+        "nama_kabkota": "Cimahi (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14760,
+        "nama_kabkota": "Cirebon (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14764,
+        "nama_kabkota": "Cirebon (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14776,
+        "nama_kabkota": "Depok (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14761,
+        "nama_kabkota": "Garut (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14755,
+        "nama_kabkota": "Indramayu (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14769,
+        "nama_kabkota": "Karawang (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14757,
+        "nama_kabkota": "Kuningan (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14759,
+        "nama_kabkota": "Majalengka (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 16066,
+        "nama_kabkota": "Pangandaran (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14766,
+        "nama_kabkota": "Purwakarta (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14767,
+        "nama_kabkota": "Subang (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14771,
+        "nama_kabkota": "Sukabumi (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14762,
+        "nama_kabkota": "Sukabumi (Kota)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14758,
+        "nama_kabkota": "Sumedang (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14756,
+        "nama_kabkota": "Tasikmalaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 12,
+        "kd_kabkota": 14778,
+        "nama_kabkota": "Tasikmalaya (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14789,
+        "nama_kabkota": "Banjarnegara (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14791,
+        "nama_kabkota": "Banyumas (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14810,
+        "nama_kabkota": "Batang (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14783,
+        "nama_kabkota": "Blora (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14787,
+        "nama_kabkota": "Boyolali (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14800,
+        "nama_kabkota": "Brebes (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14790,
+        "nama_kabkota": "Cilacap (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14806,
+        "nama_kabkota": "Demak (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14786,
+        "nama_kabkota": "Grobogan (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14809,
+        "nama_kabkota": "Jepara (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14780,
+        "nama_kabkota": "Karanganyar (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14794,
+        "nama_kabkota": "Kebumen (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14813,
+        "nama_kabkota": "Kendal (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14781,
+        "nama_kabkota": "Klaten (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14808,
+        "nama_kabkota": "Kudus (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14793,
+        "nama_kabkota": "Magelang (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14797,
+        "nama_kabkota": "Magelang (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14796,
+        "nama_kabkota": "Pati (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14811,
+        "nama_kabkota": "Pekalongan (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14802,
+        "nama_kabkota": "Pekalongan (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14805,
+        "nama_kabkota": "Pemalang (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14788,
+        "nama_kabkota": "Purbalingga (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14795,
+        "nama_kabkota": "Purworejo (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14784,
+        "nama_kabkota": "Rembang (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14803,
+        "nama_kabkota": "Salatiga (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14807,
+        "nama_kabkota": "Semarang (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14804,
+        "nama_kabkota": "Semarang (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14785,
+        "nama_kabkota": "Sragen (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14782,
+        "nama_kabkota": "Sukoharjo (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14798,
+        "nama_kabkota": "Surakarta (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14799,
+        "nama_kabkota": "Tegal (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14801,
+        "nama_kabkota": "Tegal (Kota)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14812,
+        "nama_kabkota": "Temanggung (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14779,
+        "nama_kabkota": "Wonogiri (Kab.)"
+    },
+    {
+        "kd_provinsi": 13,
+        "kd_kabkota": 14792,
+        "nama_kabkota": "Wonosobo (Kab.)"
+    },
+    {
+        "kd_provinsi": 14,
+        "kd_kabkota": 14818,
+        "nama_kabkota": "Bantul (Kab.)"
+    },
+    {
+        "kd_provinsi": 14,
+        "kd_kabkota": 14816,
+        "nama_kabkota": "Gunung Kidul (Kab.)"
+    },
+    {
+        "kd_provinsi": 14,
+        "kd_kabkota": 14817,
+        "nama_kabkota": "Kulon Progo (Kab.)"
+    },
+    {
+        "kd_provinsi": 14,
+        "kd_kabkota": 14814,
+        "nama_kabkota": "Sleman (Kab.)"
+    },
+    {
+        "kd_provinsi": 14,
+        "kd_kabkota": 14815,
+        "nama_kabkota": "Yogyakarta (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14843,
+        "nama_kabkota": "Bangkalan (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14836,
+        "nama_kabkota": "Banyuwangi (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14846,
+        "nama_kabkota": "Batu (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14831,
+        "nama_kabkota": "Blitar (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14827,
+        "nama_kabkota": "Blitar (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14855,
+        "nama_kabkota": "Bojonegoro (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14837,
+        "nama_kabkota": "Bondowoso (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14844,
+        "nama_kabkota": "Gresik (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14838,
+        "nama_kabkota": "Jember (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14824,
+        "nama_kabkota": "Jombang (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14835,
+        "nama_kabkota": "Kediri (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14829,
+        "nama_kabkota": "Kediri (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14849,
+        "nama_kabkota": "Lamongan (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14840,
+        "nama_kabkota": "Lumajang (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14850,
+        "nama_kabkota": "Madiun (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14851,
+        "nama_kabkota": "Madiun (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14853,
+        "nama_kabkota": "Magetan (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14839,
+        "nama_kabkota": "Malang (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14825,
+        "nama_kabkota": "Malang (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14820,
+        "nama_kabkota": "Mojokerto (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14852,
+        "nama_kabkota": "Mojokerto (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14828,
+        "nama_kabkota": "Nganjuk (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14856,
+        "nama_kabkota": "Ngawi (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14833,
+        "nama_kabkota": "Pacitan (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14845,
+        "nama_kabkota": "Pamekasan (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14821,
+        "nama_kabkota": "Pasuruan (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14841,
+        "nama_kabkota": "Pasuruan (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14834,
+        "nama_kabkota": "Ponorogo (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14823,
+        "nama_kabkota": "Probolinggo (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14826,
+        "nama_kabkota": "Probolinggo (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14842,
+        "nama_kabkota": "Sampang (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14819,
+        "nama_kabkota": "Sidoarjo (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14822,
+        "nama_kabkota": "Situbondo (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14848,
+        "nama_kabkota": "Sumenep (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14847,
+        "nama_kabkota": "Surabaya (Kota)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14832,
+        "nama_kabkota": "Terenggalek (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14854,
+        "nama_kabkota": "Tuban (Kab.)"
+    },
+    {
+        "kd_provinsi": 15,
+        "kd_kabkota": 14830,
+        "nama_kabkota": "Tulungagung (Kab.)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 15047,
+        "nama_kabkota": "Cilegon (Kota)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 15049,
+        "nama_kabkota": "Lebak (Kab.)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 15048,
+        "nama_kabkota": "Pandeglang (Kab.)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 15045,
+        "nama_kabkota": "Serang (Kab.)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 16002,
+        "nama_kabkota": "Serang (Kota)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 15050,
+        "nama_kabkota": "Tangerang (Kab.)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 15046,
+        "nama_kabkota": "Tangerang (Kota)"
+    },
+    {
+        "kd_provinsi": 16,
+        "kd_kabkota": 16003,
+        "nama_kabkota": "Tangerang Selatan (Kota)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14974,
+        "nama_kabkota": "Badung (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14967,
+        "nama_kabkota": "Bangli (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14969,
+        "nama_kabkota": "Buleleng (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14968,
+        "nama_kabkota": "Denpasar (Kota)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14973,
+        "nama_kabkota": "Gianyar (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14972,
+        "nama_kabkota": "Jembrana (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14966,
+        "nama_kabkota": "Karang Asem (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14970,
+        "nama_kabkota": "Klungkung (Kab.)"
+    },
+    {
+        "kd_provinsi": 17,
+        "kd_kabkota": 14971,
+        "nama_kabkota": "Tabanan (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14976,
+        "nama_kabkota": "Bima (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14977,
+        "nama_kabkota": "Bima (Kota)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14979,
+        "nama_kabkota": "Dompu (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14981,
+        "nama_kabkota": "Lombok Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14980,
+        "nama_kabkota": "Lombok Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14983,
+        "nama_kabkota": "Lombok Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 16022,
+        "nama_kabkota": "Lombok Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14978,
+        "nama_kabkota": "Mataram (Kota)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14975,
+        "nama_kabkota": "Sumbawa Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 18,
+        "kd_kabkota": 14982,
+        "nama_kabkota": "Sumbawa (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14996,
+        "nama_kabkota": "Alor (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14999,
+        "nama_kabkota": "Belu (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14984,
+        "nama_kabkota": "Ende (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14986,
+        "nama_kabkota": "Flores Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14992,
+        "nama_kabkota": "Kupang (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14989,
+        "nama_kabkota": "Kupang (Kota)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14997,
+        "nama_kabkota": "Lembata (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 16064,
+        "nama_kabkota": "Malaka (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14988,
+        "nama_kabkota": "Manggarai Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14990,
+        "nama_kabkota": "Manggarai (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 16025,
+        "nama_kabkota": "Manggarai Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 16024,
+        "nama_kabkota": "Nagekeo (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14985,
+        "nama_kabkota": "Ngada (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14991,
+        "nama_kabkota": "Rote Ndao (Kota)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 16027,
+        "nama_kabkota": "Sabu Raijua (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14987,
+        "nama_kabkota": "Sikka (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 16023,
+        "nama_kabkota": "Sumba Barat Daya (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14994,
+        "nama_kabkota": "Sumba Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 16026,
+        "nama_kabkota": "Sumba Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14995,
+        "nama_kabkota": "Sumba Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14993,
+        "nama_kabkota": "Timor Tengah Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 19,
+        "kd_kabkota": 14998,
+        "nama_kabkota": "Timor Tengah Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14864,
+        "nama_kabkota": "Bengkayang (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14858,
+        "nama_kabkota": "Kapuas Hulu (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 16009,
+        "nama_kabkota": "Kayong Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14866,
+        "nama_kabkota": "Ketapang (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 16008,
+        "nama_kabkota": "Kubu Raya (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14863,
+        "nama_kabkota": "Landak (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14862,
+        "nama_kabkota": "Melawi (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14868,
+        "nama_kabkota": "Mempawah (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14861,
+        "nama_kabkota": "Pontianak (Kota)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14865,
+        "nama_kabkota": "Sambas (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14867,
+        "nama_kabkota": "Sanggau (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14857,
+        "nama_kabkota": "Sekadau (Kab.)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14860,
+        "nama_kabkota": "Singkawang (Kota)"
+    },
+    {
+        "kd_provinsi": 20,
+        "kd_kabkota": 14859,
+        "nama_kabkota": "Sintang (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14879,
+        "nama_kabkota": "Barito Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14875,
+        "nama_kabkota": "Barito Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14882,
+        "nama_kabkota": "Barito Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14872,
+        "nama_kabkota": "Gunung Mas (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14876,
+        "nama_kabkota": "Kapuas (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14870,
+        "nama_kabkota": "Katingan (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14878,
+        "nama_kabkota": "Kotawaringin Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14877,
+        "nama_kabkota": "Kotawaringin Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14880,
+        "nama_kabkota": "Lamandau (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14874,
+        "nama_kabkota": "Murung Raya (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14873,
+        "nama_kabkota": "Palangka Raya (Kota)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14869,
+        "nama_kabkota": "Pulang Pisau (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 14871,
+        "nama_kabkota": "Seruyan (Kab.)"
+    },
+    {
+        "kd_provinsi": 21,
+        "kd_kabkota": 16010,
+        "nama_kabkota": "Sukamara (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14891,
+        "nama_kabkota": "Balangan (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14895,
+        "nama_kabkota": "Banjar Baru (Kota)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14888,
+        "nama_kabkota": "Banjar (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14890,
+        "nama_kabkota": "Banjarmasin (Kota)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14883,
+        "nama_kabkota": "Barito Kuala (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14885,
+        "nama_kabkota": "Hulu Sungai Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14889,
+        "nama_kabkota": "Hulu Sungai Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14893,
+        "nama_kabkota": "Hulu Sungai Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14887,
+        "nama_kabkota": "Kota Baru (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14894,
+        "nama_kabkota": "Tabalong (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14892,
+        "nama_kabkota": "Tanah Bumbu (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14886,
+        "nama_kabkota": "Tanah Laut (Kab.)"
+    },
+    {
+        "kd_provinsi": 22,
+        "kd_kabkota": 14884,
+        "nama_kabkota": "Tapin (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14902,
+        "nama_kabkota": "Balikpapan (Kota)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14897,
+        "nama_kabkota": "Berau (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14901,
+        "nama_kabkota": "Bontang (Kota)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14900,
+        "nama_kabkota": "Kutai Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14898,
+        "nama_kabkota": "Kutai Kartanegara (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14896,
+        "nama_kabkota": "Kutai Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 16065,
+        "nama_kabkota": "Mahakam Ulu (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14899,
+        "nama_kabkota": "Paser (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14908,
+        "nama_kabkota": "Penajem Paser Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 23,
+        "kd_kabkota": 14903,
+        "nama_kabkota": "Samarinda (Kota)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14913,
+        "nama_kabkota": "Bitung (Kota)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14917,
+        "nama_kabkota": "Bolaang Mengondow (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 16063,
+        "nama_kabkota": "Bolaang Mongondow Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 16047,
+        "nama_kabkota": "Bolaang Mongondow Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 16048,
+        "nama_kabkota": "Bolaang Mongondow Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 16044,
+        "nama_kabkota": "Kepulauan Siau Tagulandang Biaro (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14916,
+        "nama_kabkota": "Kepulauan Talaud (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 16045,
+        "nama_kabkota": "Kotamobagu (Kota)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14914,
+        "nama_kabkota": "Manado (Kota)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14911,
+        "nama_kabkota": "Minahasa (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14910,
+        "nama_kabkota": "Minahasa Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 16046,
+        "nama_kabkota": "Minahasa Tenggara (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14909,
+        "nama_kabkota": "Minahasa Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14915,
+        "nama_kabkota": "Sangihe Talaud (Kab.)"
+    },
+    {
+        "kd_provinsi": 24,
+        "kd_kabkota": 14912,
+        "nama_kabkota": "Tomohon (Kota)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14926,
+        "nama_kabkota": "Banggai (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14927,
+        "nama_kabkota": "Banggai Kepulauan (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 27008,
+        "nama_kabkota": "Banggai Laut (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14918,
+        "nama_kabkota": "Buol (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14923,
+        "nama_kabkota": "Dongala (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 27006,
+        "nama_kabkota": "Kabupaten Morowali Utara"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14919,
+        "nama_kabkota": "Morowali (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14920,
+        "nama_kabkota": "Palu (Kota)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14921,
+        "nama_kabkota": "Parigi Moutong (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14924,
+        "nama_kabkota": "Poso (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 16040,
+        "nama_kabkota": "Sigi (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14922,
+        "nama_kabkota": "Tojo Una-Una (Kab.)"
+    },
+    {
+        "kd_provinsi": 25,
+        "kd_kabkota": 14925,
+        "nama_kabkota": "Toli-Toli (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14934,
+        "nama_kabkota": "Bantaeng (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14933,
+        "nama_kabkota": "Barru (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14932,
+        "nama_kabkota": "Bone (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14935,
+        "nama_kabkota": "Bulukumba (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14949,
+        "nama_kabkota": "Enrekang (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14937,
+        "nama_kabkota": "Gowa (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14939,
+        "nama_kabkota": "Jeneponto (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14952,
+        "nama_kabkota": "Luwu (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14944,
+        "nama_kabkota": "Luwu Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14943,
+        "nama_kabkota": "Luwu Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14947,
+        "nama_kabkota": "Makassar (Kota)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14929,
+        "nama_kabkota": "Maros (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14945,
+        "nama_kabkota": "Palopo (Kota)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14928,
+        "nama_kabkota": "Pangkajene Kepulauan (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14946,
+        "nama_kabkota": "Pare-Pare (Kota)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14950,
+        "nama_kabkota": "Pinrang (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14936,
+        "nama_kabkota": "Selayar (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14951,
+        "nama_kabkota": "Sidenreng Rappang (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14930,
+        "nama_kabkota": "Sinjai (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14931,
+        "nama_kabkota": "Soppeng (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14938,
+        "nama_kabkota": "Takalar (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14955,
+        "nama_kabkota": "Tana Toraja (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 16039,
+        "nama_kabkota": "Toraja utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 26,
+        "kd_kabkota": 14940,
+        "nama_kabkota": "Wajo (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14959,
+        "nama_kabkota": "Baubau (Kota)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14957,
+        "nama_kabkota": "Bombana (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14962,
+        "nama_kabkota": "Buton (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 16111,
+        "nama_kabkota": "Buton Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 16110,
+        "nama_kabkota": "Buton Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 16041,
+        "nama_kabkota": "Buton Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 27002,
+        "nama_kabkota": "Kabupaten Kolaka Timur"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 27003,
+        "nama_kabkota": "Kabupaten Konawe Kepulauan"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14963,
+        "nama_kabkota": "Kendari (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14960,
+        "nama_kabkota": "Kendari (Kota)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14965,
+        "nama_kabkota": "Kolaka (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14958,
+        "nama_kabkota": "Kolaka Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 16043,
+        "nama_kabkota": "Konawe (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14964,
+        "nama_kabkota": "Konawe Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 16042,
+        "nama_kabkota": "Konawe Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 268936,
+        "nama_kabkota": "Muna Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14961,
+        "nama_kabkota": "Muna (Kab.)"
+    },
+    {
+        "kd_provinsi": 27,
+        "kd_kabkota": 14956,
+        "nama_kabkota": "Wakatobi (Kab.)"
+    },
+    {
+        "kd_provinsi": 28,
+        "kd_kabkota": 15054,
+        "nama_kabkota": "Boalemo (Kab.)"
+    },
+    {
+        "kd_provinsi": 28,
+        "kd_kabkota": 15051,
+        "nama_kabkota": "Bone Bolango (Kab.)"
+    },
+    {
+        "kd_provinsi": 28,
+        "kd_kabkota": 15055,
+        "nama_kabkota": "Gorontalo (Kab.)"
+    },
+    {
+        "kd_provinsi": 28,
+        "kd_kabkota": 15052,
+        "nama_kabkota": "Gorontalo (Kota)"
+    },
+    {
+        "kd_provinsi": 28,
+        "kd_kabkota": 16005,
+        "nama_kabkota": "Gorontalo Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 28,
+        "kd_kabkota": 15053,
+        "nama_kabkota": "Pohuwato (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 14953,
+        "nama_kabkota": "Majene (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 14942,
+        "nama_kabkota": "Mamasa (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 14948,
+        "nama_kabkota": "Mamuju (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 268937,
+        "nama_kabkota": "Mamuju Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 14941,
+        "nama_kabkota": "Mamuju Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 268939,
+        "nama_kabkota": "Pasangkayu (Kab.)"
+    },
+    {
+        "kd_provinsi": 29,
+        "kd_kabkota": 14954,
+        "nama_kabkota": "Polewali Mandar (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15002,
+        "nama_kabkota": "Ambon (Kota)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15006,
+        "nama_kabkota": "Buru (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 16018,
+        "nama_kabkota": "Buru Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15001,
+        "nama_kabkota": "Kepulauan Aru (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 16019,
+        "nama_kabkota": "Maluku Barat Daya (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15007,
+        "nama_kabkota": "Maluku Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15005,
+        "nama_kabkota": "Maluku Tenggara Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15004,
+        "nama_kabkota": "Maluku Tenggara (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15000,
+        "nama_kabkota": "Seram Bagian Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 15003,
+        "nama_kabkota": "Seram Bagian Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 30,
+        "kd_kabkota": 16056,
+        "nama_kabkota": "Tual (Kota)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 16020,
+        "nama_kabkota": "Halmahera Barat (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15043,
+        "nama_kabkota": "Halmahera Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15041,
+        "nama_kabkota": "Halmahera Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15037,
+        "nama_kabkota": "Halmahera Timur (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15038,
+        "nama_kabkota": "Halmahera Utara (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15044,
+        "nama_kabkota": "Kepulauan Sula (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 268940,
+        "nama_kabkota": "Maluku Utara"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 16061,
+        "nama_kabkota": "Pulau Morotai (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 16070,
+        "nama_kabkota": "Taliabu (Kab.)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15040,
+        "nama_kabkota": "Ternate (Kota)"
+    },
+    {
+        "kd_provinsi": 31,
+        "kd_kabkota": 15039,
+        "nama_kabkota": "Tidore Kepulauan (Kota)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15023,
+        "nama_kabkota": "Biak Numfor (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15017,
+        "nama_kabkota": "Jayapura (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15031,
+        "nama_kabkota": "Jayapura (Kota)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15033,
+        "nama_kabkota": "Keerom (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 16029,
+        "nama_kabkota": "Kepulauan Yapen (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 16031,
+        "nama_kabkota": "Mamberamo Raya (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 268941,
+        "nama_kabkota": "Nduga Tengah"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15026,
+        "nama_kabkota": "Sarmi (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15029,
+        "nama_kabkota": "Supiori (Kab.)"
+    },
+    {
+        "kd_provinsi": 32,
+        "kd_kabkota": 15027,
+        "nama_kabkota": "Waropen (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 15021,
+        "nama_kabkota": "Fak-Fak (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 15032,
+        "nama_kabkota": "Kaimana (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 15025,
+        "nama_kabkota": "Manokwari (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 16068,
+        "nama_kabkota": "Manokwari Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 16069,
+        "nama_kabkota": "Pegunungan Arfak (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 15035,
+        "nama_kabkota": "Teluk Bintuni (Kab.)"
+    },
+    {
+        "kd_provinsi": 33,
+        "kd_kabkota": 15028,
+        "nama_kabkota": "Teluk Wondama (Kab.)"
+    },
+    {
+        "kd_provinsi": 34,
+        "kd_kabkota": 14905,
+        "nama_kabkota": "Bulungan (Kab.)"
+    },
+    {
+        "kd_provinsi": 34,
+        "kd_kabkota": 14906,
+        "nama_kabkota": "Malinau (Kab.)"
+    },
+    {
+        "kd_provinsi": 34,
+        "kd_kabkota": 14907,
+        "nama_kabkota": "Nunukan (Kab.)"
+    },
+    {
+        "kd_provinsi": 34,
+        "kd_kabkota": 16011,
+        "nama_kabkota": "Tana Tidung (Kab.)"
+    },
+    {
+        "kd_provinsi": 34,
+        "kd_kabkota": 14904,
+        "nama_kabkota": "Tarakan (Kota)"
+    },
+    {
+        "kd_provinsi": 35,
+        "kd_kabkota": 15015,
+        "nama_kabkota": "Asmat (Kab.)"
+    },
+    {
+        "kd_provinsi": 35,
+        "kd_kabkota": 15009,
+        "nama_kabkota": "Boven Digoel (Kab.)"
+    },
+    {
+        "kd_provinsi": 35,
+        "kd_kabkota": 15012,
+        "nama_kabkota": "Mappi (Kab.)"
+    },
+    {
+        "kd_provinsi": 35,
+        "kd_kabkota": 15019,
+        "nama_kabkota": "Merauke (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 16057,
+        "nama_kabkota": "Deiyai (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 16028,
+        "nama_kabkota": "Dogiyai (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 16058,
+        "nama_kabkota": "Intan Jaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 15008,
+        "nama_kabkota": "Mimika (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 15018,
+        "nama_kabkota": "Nabire (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 15010,
+        "nama_kabkota": "Paniai (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 15011,
+        "nama_kabkota": "Puncak Jaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 36,
+        "kd_kabkota": 16034,
+        "nama_kabkota": "Puncak (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 15020,
+        "nama_kabkota": "Jayawijaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 16030,
+        "nama_kabkota": "Lanny Jaya (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 16032,
+        "nama_kabkota": "Mamberamo Tengah (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 27007,
+        "nama_kabkota": "Nduga (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 15013,
+        "nama_kabkota": "Pegunungan Bintang (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 15014,
+        "nama_kabkota": "Tolikara (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 15016,
+        "nama_kabkota": "Yahukimo (Kab.)"
+    },
+    {
+        "kd_provinsi": 37,
+        "kd_kabkota": 16035,
+        "nama_kabkota": "Yalimo (Kab.)"
+    },
+    {
+        "kd_provinsi": 38,
+        "kd_kabkota": 16037,
+        "nama_kabkota": "Maybrat (Kab.)"
+    },
+    {
+        "kd_provinsi": 38,
+        "kd_kabkota": 15036,
+        "nama_kabkota": "Raja Ampat (Kab.)"
+    },
+    {
+        "kd_provinsi": 38,
+        "kd_kabkota": 15024,
+        "nama_kabkota": "Sorong (Kab.)"
+    },
+    {
+        "kd_provinsi": 38,
+        "kd_kabkota": 15030,
+        "nama_kabkota": "Sorong (Kota)"
+    },
+    {
+        "kd_provinsi": 38,
+        "kd_kabkota": 15034,
+        "nama_kabkota": "Sorong Selatan (Kab.)"
+    },
+    {
+        "kd_provinsi": 38,
+        "kd_kabkota": 16036,
+        "nama_kabkota": "Tambrauw (Kab.)"
+    }
+]

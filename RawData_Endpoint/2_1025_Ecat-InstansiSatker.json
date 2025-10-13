@@ -1,0 +1,2690 @@
+[
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 59774,
+        "kd_satker_str": "1. 20. 03",
+        "nama_satker": "SEKRETARIAT DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60411,
+        "kd_satker_str": "32.04.20.03",
+        "nama_satker": "SEKRETARIAT DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60412,
+        "kd_satker_str": "4.02.0.00.0.00.25.0000",
+        "nama_satker": "SEKRETARIAT DPRD"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60413,
+        "kd_satker_str": "32.04.1.01.01",
+        "nama_satker": "DINAS PENDIDIKAN DAN KEBUDAYAAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60414,
+        "kd_satker_str": "1.02.0.00.0.00.02.0000",
+        "nama_satker": "DINAS KESEHATAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60415,
+        "kd_satker_str": "32.04.1.03.01",
+        "nama_satker": "DINAS BINA MARGA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60416,
+        "kd_satker_str": "32.04.1.04.01",
+        "nama_satker": "DINAS PERUMAHAN, PENATAAN RUANG DAN KEBERSIHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60417,
+        "kd_satker_str": "32.04.1.06.01",
+        "nama_satker": "BADAN PERENCANAAN DAN PEMBANGUNAN DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60418,
+        "kd_satker_str": "2.15.0.00.0.00.15.0000",
+        "nama_satker": "DINAS PERHUBUNGAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60419,
+        "kd_satker_str": "32.04.1.08.01",
+        "nama_satker": "BADAN PENGENDALIAN LINGKUNGAN HIDUP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60420,
+        "kd_satker_str": "2.12.0.00.0.00.12.0000",
+        "nama_satker": "DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60421,
+        "kd_satker_str": "32.04.1.12.01",
+        "nama_satker": "BADAN KELUARGA BERENCANA DAN PEMBERDAYAAN PEREMPUAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60422,
+        "kd_satker_str": "1.06.0.00.0.00.08.0000",
+        "nama_satker": "DINAS SOSIAL"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60423,
+        "kd_satker_str": "2.01.01",
+        "nama_satker": "DINAS TENAGA KERJA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60424,
+        "kd_satker_str": "32.04.1.15.01",
+        "nama_satker": "DINAS KOPERASI,UKM,PERINDUSTRIAN DAN PERDAGANGAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60425,
+        "kd_satker_str": "32.04.1.16.01",
+        "nama_satker": "BADAN PENANAMAN MODAL DAN PERIZINAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60426,
+        "kd_satker_str": "32.04.1.18.01",
+        "nama_satker": "DINAS PEMUDA,OLAH RAGA DAN PARIWISATA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60427,
+        "kd_satker_str": "8.01.0.00.0.00.31.0000",
+        "nama_satker": "BADAN KESATUAN BANGSA DAN POLITIK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60428,
+        "kd_satker_str": "1.05.0.00.0.00.05.0000",
+        "nama_satker": "SATUAN POLISI PAMONG PRAJA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60429,
+        "kd_satker_str": "1.05.0.00.0.00.06.0000",
+        "nama_satker": "BADAN PENANGGULANGAN BENCANA DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60430,
+        "kd_satker_str": "32.04.1.20.05",
+        "nama_satker": "DINAS PENDAPATAN DAN PENGELOLAAN KEUANGAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60431,
+        "kd_satker_str": "4.01.01",
+        "nama_satker": "INSPEKTORAT"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60432,
+        "kd_satker_str": "32.04.1.20.07",
+        "nama_satker": "BADAN KEPEGAWAIAN, PENDIDIKAN DAN PELATIHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60433,
+        "kd_satker_str": "32.04.1.21.01",
+        "nama_satker": "BADAN KETAHANAN PANGAN DAN PELAKSANA PENYULUHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60434,
+        "kd_satker_str": "32.04.1.22.01",
+        "nama_satker": "BADAN PEMBERDAYAAN MASYARAKAT DAN PEMERINTAHAN DESA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60435,
+        "kd_satker_str": "32.04.1.26.01",
+        "nama_satker": "BADAN PERPUSTAKAAN, ARSIP DAN PENGEMBANGAN SISTEM INFORMASI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60442,
+        "kd_satker_str": "4.01.0.00.0.00.24.0000",
+        "nama_satker": "SEKRETARIAT DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60444,
+        "kd_satker_str": "32.04.2.01.01",
+        "nama_satker": "DINAS PERTANIAN, PERKEBUNAN DAN KEHUTANAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60446,
+        "kd_satker_str": "32.04.2.03.01",
+        "nama_satker": "DINAS SUMBER DAYA AIR, PERTAMBANGAN DAN ENERGI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60448,
+        "kd_satker_str": "32.04.2.05.01",
+        "nama_satker": "DINAS PETERNAKAN DAN PERIKANAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60456,
+        "kd_satker_str": "1.02.0.00.0.00.02.0067",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH KELAS B MAJALAYA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60457,
+        "kd_satker_str": "1.02.0.00.0.00.02.0065",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH OTO ISKANDAR DI NATA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60458,
+        "kd_satker_str": "1.02.0.00.0.00.02.0066",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH CICALENGKA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60460,
+        "kd_satker_str": "7.01.0.00.0.00.01.0000",
+        "nama_satker": "KECAMATAN CILEUNYI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60461,
+        "kd_satker_str": "7.01.0.00.0.00.02.0000",
+        "nama_satker": "KECAMATAN CILENGKRANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60463,
+        "kd_satker_str": "7.01.0.00.0.00.03.0000",
+        "nama_satker": "KECAMATAN CIMENYAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60464,
+        "kd_satker_str": "7.01.0.00.0.00.04.0000",
+        "nama_satker": "KECAMATAN BOJONGSOANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60465,
+        "kd_satker_str": "7.01.0.00.0.00.05.0000",
+        "nama_satker": "KECAMATAN MARGAHAYU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60467,
+        "kd_satker_str": "7.01.0.00.0.00.06.0000",
+        "nama_satker": "KECAMATAN MARGAASIH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60469,
+        "kd_satker_str": "7.01.0.00.0.00.07.0000",
+        "nama_satker": "KECAMATAN DAYEUHKOLOT"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60471,
+        "kd_satker_str": "7.01.0.00.0.00.08.0000",
+        "nama_satker": "KECAMATAN KATAPANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60472,
+        "kd_satker_str": "7.01.0.00.0.00.09.0000",
+        "nama_satker": "KECAMATAN PAMEUNGPEUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60473,
+        "kd_satker_str": "7.01.0.00.0.00.10.0000",
+        "nama_satker": "KECAMATAN ARJASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60475,
+        "kd_satker_str": "7.01.0.00.0.00.11.0000",
+        "nama_satker": "KECAMATAN PANGALENGAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60476,
+        "kd_satker_str": "7.01.0.00.0.00.12.0000",
+        "nama_satker": "KECAMATAN CIMAUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60478,
+        "kd_satker_str": "7.01.0.00.0.00.13.0000",
+        "nama_satker": "KECAMATAN BANJARAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60479,
+        "kd_satker_str": "7.01.0.00.0.00.14.0000",
+        "nama_satker": "KECAMATAN CICALENGKA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60481,
+        "kd_satker_str": "7.01.0.00.0.00.15.0000",
+        "nama_satker": "KECAMATAN RANCAEKEK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60482,
+        "kd_satker_str": "7.01.0.00.0.00.16.0000",
+        "nama_satker": "KECAMATAN CIKANCUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60483,
+        "kd_satker_str": "7.01.0.00.0.00.17.0000",
+        "nama_satker": "KECAMATAN NAGREG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60484,
+        "kd_satker_str": "7.01.0.00.0.00.18.0000",
+        "nama_satker": "KECAMATAN BALEENDAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60485,
+        "kd_satker_str": "7.01.0.00.0.00.19.0000",
+        "nama_satker": "KECAMATAN PACET"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60487,
+        "kd_satker_str": "7.01.0.00.0.00.20.0000",
+        "nama_satker": "KECAMATAN KERTASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60488,
+        "kd_satker_str": "7.01.0.00.0.00.21.0000",
+        "nama_satker": "KECAMATAN CIPARAY"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60489,
+        "kd_satker_str": "7.01.0.00.0.00.22.0000",
+        "nama_satker": "KECAMATAN MAJALAYA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60490,
+        "kd_satker_str": "7.01.0.00.0.00.23.0000",
+        "nama_satker": "KECAMATAN IBUN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60492,
+        "kd_satker_str": "7.01.0.00.0.00.24.0000",
+        "nama_satker": "KECAMATAN PASEH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60493,
+        "kd_satker_str": "7.01.0.00.0.00.25.0000",
+        "nama_satker": "KECAMATAN SOLOKAN JERUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60495,
+        "kd_satker_str": "7.01.0.00.0.00.26.0000",
+        "nama_satker": "KECAMATAN PASIRJAMBU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60496,
+        "kd_satker_str": "7.01.0.00.0.00.27.0000",
+        "nama_satker": "KECAMATAN CIWIDEY"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60498,
+        "kd_satker_str": "7.01.0.00.0.00.28.0000",
+        "nama_satker": "KECAMATAN RANCABALI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60499,
+        "kd_satker_str": "7.01.0.00.0.00.29.0000",
+        "nama_satker": "KECAMATAN SOREANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60501,
+        "kd_satker_str": "7.01.0.00.0.00.30.0000",
+        "nama_satker": "KECAMATAN CANGKUANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60502,
+        "kd_satker_str": "7.01.0.00.0.00.31.0000",
+        "nama_satker": "KECAMATAN KUTAWARINGIN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60506,
+        "kd_satker_str": "32.04.1.20.39",
+        "nama_satker": "KELURAHAN PASAWAHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60508,
+        "kd_satker_str": "32.04.1.20.40",
+        "nama_satker": "KELURAHAN PADASUKA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60509,
+        "kd_satker_str": "32.04.1.20.41",
+        "nama_satker": "KELURAHAN ANDIR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60511,
+        "kd_satker_str": "32.04.1.20.42",
+        "nama_satker": "KELURAHAN BALEENDAH "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60512,
+        "kd_satker_str": "1.20.43.01",
+        "nama_satker": "KELURAHAN MANGGAHANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60514,
+        "kd_satker_str": "32.04.1.20.44",
+        "nama_satker": "KELURAHAN CIBEUNYING"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60516,
+        "kd_satker_str": "32.04.1.20.45",
+        "nama_satker": "KELURAHAN JELEKONG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60518,
+        "kd_satker_str": "32.04.1.20.46",
+        "nama_satker": "KELURAHAN WARGAMEKAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60520,
+        "kd_satker_str": "32.04.1.20.47",
+        "nama_satker": "KELURAHAN SULAIMAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 60521,
+        "kd_satker_str": "32.04.1.20.48",
+        "nama_satker": "KELURAHAN RANCAEKEK KENCANA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96017,
+        "kd_satker_str": "32.04.1.03.01",
+        "nama_satker": "Dinas Bina Marga"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96018,
+        "kd_satker_str": "32.04.1.01.01",
+        "nama_satker": "Dinas Pendidikan dan Kebudayaan"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96020,
+        "kd_satker_str": "1.01.0.00.0.00.01.0000",
+        "nama_satker": "DINAS PENDIDIKAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96022,
+        "kd_satker_str": "1.03.01",
+        "nama_satker": "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96023,
+        "kd_satker_str": "1.04.01",
+        "nama_satker": "DINAS PERUMAHAN RAKYAT KAWASAN PERMUKIMAN DAN PERTANAHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96024,
+        "kd_satker_str": "2.08.01",
+        "nama_satker": "DINAS PENGENDALIAN PENDUDUK KELUARGA BERENCANA PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96025,
+        "kd_satker_str": "2.11.0.00.0.00.11.0000",
+        "nama_satker": "DINAS LINGKUNGAN HIDUP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96026,
+        "kd_satker_str": "32.04.1.22.01",
+        "nama_satker": "BADAN PEMBERDAYAAN MASYARAKAT DAN PEMERINTAH DESA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96027,
+        "kd_satker_str": "2.18.0.00.0.00.18.0000",
+        "nama_satker": "DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96028,
+        "kd_satker_str": "2.13.01",
+        "nama_satker": "DINAS KEPEMUDAAN DAN OLAHRAGA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96029,
+        "kd_satker_str": "3.06.01",
+        "nama_satker": "DINAS PERDAGANGAN DAN PERINDUSTRIAN "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96030,
+        "kd_satker_str": "3.27.0.00.0.00.22.0000",
+        "nama_satker": "DINAS PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96031,
+        "kd_satker_str": "2.03.01",
+        "nama_satker": "DINAS PANGAN DAN PERIKANAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96032,
+        "kd_satker_str": "32.04.1.26.01",
+        "nama_satker": "BADAN PERPUSTAKAAN, ARSIP DAN PENGEMBANGAN SISTEM INFORMASI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96033,
+        "kd_satker_str": "2.17.01",
+        "nama_satker": "DINAS PERPUSTAKAAN DAN KEARSIPAN "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96034,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI DAN INFORMATIKA STATISTIK DAN PERSANDIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96035,
+        "kd_satker_str": "2.22.3.26.0.00.20.0000",
+        "nama_satker": "DINAS KEBUDAYAAN DAN PARIWISATA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96036,
+        "kd_satker_str": "2.11.01",
+        "nama_satker": "DINAS KOPERASI USAHA KECIL DAN MENENGAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96037,
+        "kd_satker_str": "4.02.01",
+        "nama_satker": "BADAN PERENCANAAN PENELITIAN DAN PENGEMBANGAN DAERAH "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96038,
+        "kd_satker_str": "4.03.02",
+        "nama_satker": "BADAN KEUANGAN DAERAH "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 96039,
+        "kd_satker_str": "4.04.1",
+        "nama_satker": "BADAN KEPEGAWAIAN PENDIDIKAN DAN PELATIHAN DAERAH "
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 97846,
+        "kd_satker_str": "1",
+        "nama_satker": "PT. BPR KERTA RAHARJA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 101513,
+        "kd_satker_str": "2.13.0.00.0.00.13.0000",
+        "nama_satker": "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 101593,
+        "kd_satker_str": "1.05.03",
+        "nama_satker": "DINAS KEBAKARAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152132,
+        "kd_satker_str": "5.03.5.04.0.00.29.0000",
+        "nama_satker": "BADAN KEPEGAWAIAN DAN PENGEMBANGAN SUMBER DAYA MANUSIA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152302,
+        "kd_satker_str": "5.02.0.00.0.00.28.0000",
+        "nama_satker": "BADAN PENDAPATAN DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152334,
+        "kd_satker_str": "5.02.0.00.0.00.27.0000",
+        "nama_satker": "BADAN KEUANGAN DAN ASET DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152335,
+        "kd_satker_str": "5.01.5.05.0.00.26.0000",
+        "nama_satker": "BADAN PERENCANAAN PEMBANGUNAN RISET DAN INOVASI DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152336,
+        "kd_satker_str": "2.23.2.24.0.00.21.0000",
+        "nama_satker": "DINAS PERPUSTAKAAN DAN ARSIP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152338,
+        "kd_satker_str": "2.09.3.25.0.00.10.0000",
+        "nama_satker": "DINAS PANGAN DAN PERIKANAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152339,
+        "kd_satker_str": "2.07.3.32.0.00.09.0000",
+        "nama_satker": "DINAS KETENAGAKERJAAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152341,
+        "kd_satker_str": "2.17.0.00.0.00.17.0000",
+        "nama_satker": "DINAS KOPERASI DAN USAHA KECIL DAN MENENGAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152342,
+        "kd_satker_str": "1.03.2.15.1.04.03.0000",
+        "nama_satker": "DINAS PEKERJAAN UMUM DAN TATA RUANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152344,
+        "kd_satker_str": "1.05.0.00.0.00.07.0000",
+        "nama_satker": "DINAS PEMADAM KEBAKARAN DAN PENYELAMATAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152347,
+        "kd_satker_str": "2.19.0.00.0.00.19.0000",
+        "nama_satker": "DINAS PEMUDA DAN OLAH RAGA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152348,
+        "kd_satker_str": "2.14.2.08.0.00.14.0000",
+        "nama_satker": "DINAS PENGENDALIAN PENDUDUK KB PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152351,
+        "kd_satker_str": "3.30.3.31.3.29.23.0000",
+        "nama_satker": "DINAS PERDAGANGAN DAN PERINDUSTRIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152352,
+        "kd_satker_str": "1.04.2.10.1.03.04.0000",
+        "nama_satker": "DINAS PERUMAHAN DAN KAWASAN PERMUKIMAN DAN PERTANAHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 152353,
+        "kd_satker_str": "6.01.0.00.0.00.30.0000",
+        "nama_satker": "INSPEKTORAT DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270452,
+        "kd_satker_str": "1.02.0.00.0.00.02.0001",
+        "nama_satker": "PUSKESMAS ARJASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270456,
+        "kd_satker_str": "1.02.0.00.0.00.02.0002",
+        "nama_satker": "PUSKESMAS BALEENDAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270459,
+        "kd_satker_str": "1.02.0.00.0.00.02.0003",
+        "nama_satker": "PUSKESMAS BANJARAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270461,
+        "kd_satker_str": "1.02.0.00.0.00.02.0004",
+        "nama_satker": "PUSKESMAS CILEUNYI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270463,
+        "kd_satker_str": "1.02.0.00.0.00.02.0005",
+        "nama_satker": "PUSKESMAS KATAPANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270465,
+        "kd_satker_str": "1.02.0.00.0.00.02.0006",
+        "nama_satker": "PUSKESMAS BOJONGSOANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270467,
+        "kd_satker_str": "1.02.0.00.0.00.02.0007",
+        "nama_satker": "PUSKESMAS BANJARAN DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270469,
+        "kd_satker_str": "1.02.0.00.0.00.02.0008",
+        "nama_satker": "PUSKESMAS BIHBUL"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270472,
+        "kd_satker_str": "1.02.0.00.0.00.02.0009",
+        "nama_satker": "PUSKESMAS CANGKUANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270474,
+        "kd_satker_str": "1.02.0.00.0.00.02.0010",
+        "nama_satker": "PUSKESMAS CIBEUNYING"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270476,
+        "kd_satker_str": "1.02.0.00.0.00.02.0011",
+        "nama_satker": "PUSKESMAS CIBIRU HILIR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270478,
+        "kd_satker_str": "1.02.0.00.0.00.02.0012",
+        "nama_satker": "PUSEKESMAS CICALENGKA DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270480,
+        "kd_satker_str": "1.02.0.00.0.00.02.0013",
+        "nama_satker": "PUSKESMAS CIKALONG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270483,
+        "kd_satker_str": "1.02.0.00.0.00.02.0014",
+        "nama_satker": "PUSKESMAS CIKANCUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270485,
+        "kd_satker_str": "1.02.0.00.0.00.02.0015",
+        "nama_satker": "PUSKESMAS CIKARO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270487,
+        "kd_satker_str": "1.02.0.00.0.00.02.0016",
+        "nama_satker": "PUSKESMAS CILENGKRANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270489,
+        "kd_satker_str": "1.02.0.00.0.00.02.0017",
+        "nama_satker": "PUSKESMAS CILULUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270491,
+        "kd_satker_str": "1.02.0.00.0.00.02.0018",
+        "nama_satker": "PUSKESMAS CIMAUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270493,
+        "kd_satker_str": "1.02.0.00.0.00.02.0019",
+        "nama_satker": "PUSKESMAS CIMENYAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270496,
+        "kd_satker_str": "1.02.0.00.0.00.02.0020",
+        "nama_satker": "PUSKESMAS CINUNUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270498,
+        "kd_satker_str": "1.02.0.00.0.00.02.0021",
+        "nama_satker": "PUSKESMAS CIPARAY DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270501,
+        "kd_satker_str": "1.02.0.00.0.00.02.0022",
+        "nama_satker": "PUSKESMAS CIPEDES"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270503,
+        "kd_satker_str": "1.02.0.00.0.00.02.0023",
+        "nama_satker": "PUSKESMAS CIWIDEY"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270506,
+        "kd_satker_str": "1.02.0.00.0.00.02.0024",
+        "nama_satker": "PUSKESMAS DAYEUHKOLOT"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270509,
+        "kd_satker_str": "1.02.0.00.0.00.02.0025",
+        "nama_satker": "PUSKESMAS IBUN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270511,
+        "kd_satker_str": "1.02.0.00.0.00.02.0026",
+        "nama_satker": "PUSKESMAS JELEKONG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270514,
+        "kd_satker_str": "1.02.0.00.0.00.02.0027",
+        "nama_satker": "PUSKESMAS KERTASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270517,
+        "kd_satker_str": "1.02.0.00.0.00.02.0028",
+        "nama_satker": "PUSKESMAS KIANGROKE"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270519,
+        "kd_satker_str": "1.02.0.00.0.00.02.0029",
+        "nama_satker": "PUSKESMAS KOPO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270522,
+        "kd_satker_str": "1.02.0.00.0.00.02.0030",
+        "nama_satker": "PUSKESMAS KUTAWARINGIN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270524,
+        "kd_satker_str": "1.02.0.00.0.00.02.0031",
+        "nama_satker": "PUSKESMAS LINGGAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270527,
+        "kd_satker_str": "1.02.0.00.0.00.02.0032",
+        "nama_satker": "PUSKESMAS MAJALAYA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270530,
+        "kd_satker_str": "1.02.0.00.0.00.02.0033",
+        "nama_satker": "PUSKESMAS MARGAASIH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270532,
+        "kd_satker_str": "1.02.0.00.0.00.02.0034",
+        "nama_satker": "PUSKESMAS MARGAHAYU SELATAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270535,
+        "kd_satker_str": "1.02.0.00.0.00.02.0035",
+        "nama_satker": "PUSKESMAS NAGRAK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270538,
+        "kd_satker_str": "1.02.0.00.0.00.02.0036",
+        "nama_satker": "PUSKESMAS NAGREG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270540,
+        "kd_satker_str": "1.02.0.00.0.00.02.0037",
+        "nama_satker": "PUSKESMAS NANJUNG MEKAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270543,
+        "kd_satker_str": "1.02.0.00.0.00.02.0038",
+        "nama_satker": "PUSKESMAS PACET"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270546,
+        "kd_satker_str": "1.02.0.00.0.00.02.0039",
+        "nama_satker": "PUSKESMAS PADAMUKTI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270548,
+        "kd_satker_str": "1.02.0.00.0.00.02.0040",
+        "nama_satker": "PUSKESMAS PAKUTANDANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270551,
+        "kd_satker_str": "1.02.0.00.0.00.02.0041",
+        "nama_satker": "PUSKESMAS PAMEUNGPEUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270554,
+        "kd_satker_str": "1.02.0.00.0.00.02.0042",
+        "nama_satker": "PUSKESMAS PANCA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270556,
+        "kd_satker_str": "1.02.0.00.0.00.02.0043",
+        "nama_satker": "PUSKESMAS PANGALENGAN DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270559,
+        "kd_satker_str": "1.02.0.00.0.00.02.0044",
+        "nama_satker": "PUSKESMAS PASEH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270561,
+        "kd_satker_str": "1.02.0.00.0.00.02.0045",
+        "nama_satker": "PUSKESMAS PASIRJAMBU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270564,
+        "kd_satker_str": "1.02.0.00.0.00.02.0046",
+        "nama_satker": "PUSKESMAS RAHAYU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270567,
+        "kd_satker_str": "1.02.0.00.0.00.02.0047",
+        "nama_satker": "PUSKESMAS RANCABALI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270569,
+        "kd_satker_str": "1.02.0.00.0.00.02.0048",
+        "nama_satker": "PUSKESMAS RANCAEKEK DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270571,
+        "kd_satker_str": "1.02.0.00.0.00.02.0049",
+        "nama_satker": "PUSKESMAS RANCAMANYAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270573,
+        "kd_satker_str": "1.02.0.00.0.00.02.0050",
+        "nama_satker": "PUSKESMAS RAWABOGO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270575,
+        "kd_satker_str": "1.02.0.00.0.00.02.0051",
+        "nama_satker": "PUSKESMAS SANGKANHURIP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270577,
+        "kd_satker_str": "1.02.0.00.0.00.02.0052",
+        "nama_satker": "PUSKESMAS SANTOSA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270579,
+        "kd_satker_str": "1.02.0.00.0.00.02.0053",
+        "nama_satker": "PUSKESMAS SAWAHLEGA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270581,
+        "kd_satker_str": "1.02.0.00.0.00.02.0054",
+        "nama_satker": "PUSKESMAS SOLOKAN JERUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270583,
+        "kd_satker_str": "1.02.0.00.0.00.02.0055",
+        "nama_satker": "PUSKESMAS SOREANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270585,
+        "kd_satker_str": "1.02.0.00.0.00.02.0056",
+        "nama_satker": "PUSKESMAS SUDI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270587,
+        "kd_satker_str": "1.02.0.00.0.00.02.0057",
+        "nama_satker": "PUSKESMAS SUGIHMUKTI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270589,
+        "kd_satker_str": "1.02.0.00.0.00.02.0058",
+        "nama_satker": "PUSKESMAS SUKAJADI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270591,
+        "kd_satker_str": "1.02.0.00.0.00.02.0059",
+        "nama_satker": "PUSKESMAS SUKAMANAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270593,
+        "kd_satker_str": "1.02.0.00.0.00.02.0060",
+        "nama_satker": "PUSKESMAS SUMBERSARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270595,
+        "kd_satker_str": "1.02.0.00.0.00.02.0061",
+        "nama_satker": "PUSKESMAS WANGISAGARA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270597,
+        "kd_satker_str": "1.02.0.00.0.00.02.0062",
+        "nama_satker": "PUSKESMAS WARNASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270599,
+        "kd_satker_str": "1.05.0.00.0.00.07.0000",
+        "nama_satker": "DINAS PEMADAMAN KEBAKARAN DAN PENYELAMATAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270601,
+        "kd_satker_str": "2.09.3.25.0.00.10.0000",
+        "nama_satker": "DINAS KETAHANAN PANGAN DAN PERIKANAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270604,
+        "kd_satker_str": "2.11.0.00.0.00.11.0001",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil Baleendah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270606,
+        "kd_satker_str": "2.11.0.00.0.00.11.0002",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil. Soreang"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270608,
+        "kd_satker_str": "2.11.0.00.0.00.11.0003",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil. Rancaekek"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270610,
+        "kd_satker_str": "2.11.0.00.0.00.11.0004",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil. Ciparay"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270612,
+        "kd_satker_str": "2.11.0.00.0.00.11.0005",
+        "nama_satker": "UPTD Pengelolaan dan Pemanfaatan Sampah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270614,
+        "kd_satker_str": "2.11.0.00.0.00.11.0006",
+        "nama_satker": "UPTD Laboratorium Lingkungan"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270616,
+        "kd_satker_str": "2.14.2.08.0.00.14.0000",
+        "nama_satker": "DINAS PENGENDALIAN PENDUDUK, KB, PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270618,
+        "kd_satker_str": "2.15.0.00.0.00.15.0001",
+        "nama_satker": "UPT PENGELOLAAN TERMINAL"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270620,
+        "kd_satker_str": "2.15.0.00.0.00.15.0002",
+        "nama_satker": "UPT PENGELOLAAN PARKIR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270622,
+        "kd_satker_str": "2.15.0.00.0.00.15.0003",
+        "nama_satker": "UPT PENGUJIAN KENDARAAN BERMOTOR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270624,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI, INFORMATIKA DAN STATISTIK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270626,
+        "kd_satker_str": "2.17.0.00.0.00.17.0001",
+        "nama_satker": "UPTD PLUTKUMKM"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270628,
+        "kd_satker_str": "3.27.0.00.0.00.22.0001",
+        "nama_satker": "UPTD ALAT MESIN PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270630,
+        "kd_satker_str": "3.27.0.00.0.00.22.0002",
+        "nama_satker": "UPTD RUMAH POTONG HEWAN DAN UNGGAS"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270632,
+        "kd_satker_str": "3.27.0.00.0.00.22.0003",
+        "nama_satker": "UPTD PENGEMBANGAN TEKNOLOGI PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270634,
+        "kd_satker_str": "3.27.0.00.0.00.22.0004",
+        "nama_satker": "UPTD PUSAT KESEHATAN HEWAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270636,
+        "kd_satker_str": "3.27.0.00.0.00.22.0005",
+        "nama_satker": "UPTD PASAR HEWAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270637,
+        "kd_satker_str": "3.27.0.00.0.00.22.0006",
+        "nama_satker": "UPTD PEMBIBITAN TERNAK RUMINANSIA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270639,
+        "kd_satker_str": "3.27.0.00.0.00.22.0007",
+        "nama_satker": "UPTD BALAI PELAKSANA PENYULUHAN PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270641,
+        "kd_satker_str": "5.01.5.05.0.00.26.0000",
+        "nama_satker": "BADAN PERENCANAAN PEMBANGUNAN, RISET DAN INOVASI DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270644,
+        "kd_satker_str": "5.02.0.00.0.00.28.0001",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah I Soreang"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270647,
+        "kd_satker_str": "5.02.0.00.0.00.28.0002",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah II Margahayu"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270649,
+        "kd_satker_str": "5.02.0.00.0.00.28.0003",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah III Baleendah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270652,
+        "kd_satker_str": "5.02.0.00.0.00.28.0004",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah IV Majalaya"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270654,
+        "kd_satker_str": "5.02.0.00.0.00.28.0005",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah V Rancaekek"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270656,
+        "kd_satker_str": "7.01.0.00.0.00.03.0001",
+        "nama_satker": "KELURAHAN PADASUKA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270659,
+        "kd_satker_str": "7.01.0.00.0.00.03.0002",
+        "nama_satker": "KELURAHAN CIBEUNYING"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270661,
+        "kd_satker_str": "7.01.0.00.0.00.05.0001",
+        "nama_satker": "KELURAHAN SULAIMAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270663,
+        "kd_satker_str": "7.01.0.00.0.00.18.0001",
+        "nama_satker": "Kelurahan Andir"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270665,
+        "kd_satker_str": "7.01.0.00.0.00.18.0002",
+        "nama_satker": "Kelurahan Baleendah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270668,
+        "kd_satker_str": "7.01.0.00.0.00.18.0003",
+        "nama_satker": "Kelurahan Jelekong"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270670,
+        "kd_satker_str": "7.01.0.00.0.00.18.0004",
+        "nama_satker": "Kelurahan Manggahang"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 270672,
+        "kd_satker_str": "7.01.0.00.0.00.18.0005",
+        "nama_satker": "Kelurahan Wargamekar"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314374,
+        "kd_satker_str": "1.02.0.00.0.00.02.0001",
+        "nama_satker": "PUSKESMAS ARJASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314382,
+        "kd_satker_str": "1.02.0.00.0.00.02.0002",
+        "nama_satker": "PUSKESMAS BALEENDAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314384,
+        "kd_satker_str": "1.02.0.00.0.00.02.0003",
+        "nama_satker": "PUSKESMAS BANJARAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314386,
+        "kd_satker_str": "1.02.0.00.0.00.02.0004",
+        "nama_satker": "PUSKESMAS CILEUNYI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314388,
+        "kd_satker_str": "1.02.0.00.0.00.02.0005",
+        "nama_satker": "PUSKESMAS KATAPANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314392,
+        "kd_satker_str": "1.02.0.00.0.00.02.0006",
+        "nama_satker": "PUSKESMAS BOJONGSOANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314394,
+        "kd_satker_str": "1.02.0.00.0.00.02.0007",
+        "nama_satker": "PUSKESMAS NAMBO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314397,
+        "kd_satker_str": "1.02.0.00.0.00.02.0008",
+        "nama_satker": "PUSKESMAS BIHBUL"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314399,
+        "kd_satker_str": "1.02.0.00.0.00.02.0009",
+        "nama_satker": "PUSKESMAS CANGKUANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314402,
+        "kd_satker_str": "1.02.0.00.0.00.02.0010",
+        "nama_satker": "PUSKESMAS CIBEUNYING"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314404,
+        "kd_satker_str": "1.02.0.00.0.00.02.0011",
+        "nama_satker": "PUSKESMAS CIBIRU HILIR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314407,
+        "kd_satker_str": "1.02.0.00.0.00.02.0012",
+        "nama_satker": "PUSKESMAS CICALENGKA DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314409,
+        "kd_satker_str": "1.02.0.00.0.00.02.0013",
+        "nama_satker": "PUSKESMAS CIKALONG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314411,
+        "kd_satker_str": "1.02.0.00.0.00.02.0014",
+        "nama_satker": "PUSKESMAS CIKANCUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314412,
+        "kd_satker_str": "1.02.0.00.0.00.02.0015",
+        "nama_satker": "PUSKESMAS CIKARO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314413,
+        "kd_satker_str": "1.02.0.00.0.00.02.0016",
+        "nama_satker": "PUSKESMAS CILENGKRANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314414,
+        "kd_satker_str": "1.02.0.00.0.00.02.0017",
+        "nama_satker": "PUSKESMAS CILULUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314416,
+        "kd_satker_str": "1.02.0.00.0.00.02.0018",
+        "nama_satker": "PUSKESMAS CIMAUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314418,
+        "kd_satker_str": "1.02.0.00.0.00.02.0019",
+        "nama_satker": "PUSKESMAS CIMENYAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314420,
+        "kd_satker_str": "1.02.0.00.0.00.02.0020",
+        "nama_satker": "PUSKESMAS CINUNUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314423,
+        "kd_satker_str": "1.02.0.00.0.00.02.0021",
+        "nama_satker": "PUSKESMAS CIPARAY DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314425,
+        "kd_satker_str": "1.02.0.00.0.00.02.0022",
+        "nama_satker": "PUSKESMAS CIPEDES"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314428,
+        "kd_satker_str": "1.02.0.00.0.00.02.0023",
+        "nama_satker": "PUSKESMAS CIWIDEY"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314431,
+        "kd_satker_str": "1.02.0.00.0.00.02.0024",
+        "nama_satker": "PUSKESMAS DAYEUHKOLOT"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314433,
+        "kd_satker_str": "1.02.0.00.0.00.02.0025",
+        "nama_satker": "PUSKESMAS IBUN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314435,
+        "kd_satker_str": "1.02.0.00.0.00.02.0026",
+        "nama_satker": "PUSKESMAS JELEKONG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314437,
+        "kd_satker_str": "1.02.0.00.0.00.02.0027",
+        "nama_satker": "PUSKESMAS KERTASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314440,
+        "kd_satker_str": "1.02.0.00.0.00.02.0028",
+        "nama_satker": "PUSKESMAS KIANGROKE"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314442,
+        "kd_satker_str": "1.02.0.00.0.00.02.0029",
+        "nama_satker": "PUSKESMAS KOPO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314444,
+        "kd_satker_str": "1.02.0.00.0.00.02.0030",
+        "nama_satker": "PUSKESMAS KUTAWARINGIN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314446,
+        "kd_satker_str": "1.02.0.00.0.00.02.0031",
+        "nama_satker": "PUSKESMAS LINGGAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314447,
+        "kd_satker_str": "1.02.0.00.0.00.02.0032",
+        "nama_satker": "PUSKESMAS MAJALAYA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314448,
+        "kd_satker_str": "1.02.0.00.0.00.02.0033",
+        "nama_satker": "PUSKESMAS MARGAASIH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314449,
+        "kd_satker_str": "1.02.0.00.0.00.02.0034",
+        "nama_satker": "PUSKESMAS MARGAHAYU SELATAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314451,
+        "kd_satker_str": "1.02.0.00.0.00.02.0035",
+        "nama_satker": "PUSKESMAS NAGRAK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314454,
+        "kd_satker_str": "1.02.0.00.0.00.02.0036",
+        "nama_satker": "PUSKESMAS NAGREG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314455,
+        "kd_satker_str": "1.02.0.00.0.00.02.0037",
+        "nama_satker": "PUSKESMAS NANJUNG MEKAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314456,
+        "kd_satker_str": "1.02.0.00.0.00.02.0038",
+        "nama_satker": "PUSKESMAS PACET"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314457,
+        "kd_satker_str": "1.02.0.00.0.00.02.0039",
+        "nama_satker": "PUSKESMAS PADAMUKTI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314458,
+        "kd_satker_str": "1.02.0.00.0.00.02.0040",
+        "nama_satker": "PUSKESMAS PAKUTANDANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314459,
+        "kd_satker_str": "1.02.0.00.0.00.02.0041",
+        "nama_satker": "PUSKESMAS PAMEUNGPEUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314460,
+        "kd_satker_str": "1.02.0.00.0.00.02.0042",
+        "nama_satker": "PUSKESMAS PANCA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314461,
+        "kd_satker_str": "1.02.0.00.0.00.02.0043",
+        "nama_satker": "PUSKESMAS PANGALENGAN DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314462,
+        "kd_satker_str": "1.02.0.00.0.00.02.0044",
+        "nama_satker": "PUSKESMAS PASEH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314463,
+        "kd_satker_str": "1.02.0.00.0.00.02.0045",
+        "nama_satker": "PUSKESMAS PASIRJAMBU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314464,
+        "kd_satker_str": "1.02.0.00.0.00.02.0046",
+        "nama_satker": "PUSKESMAS RAHAYU"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314465,
+        "kd_satker_str": "1.02.0.00.0.00.02.0047",
+        "nama_satker": "PUSKESMAS RANCABALI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314466,
+        "kd_satker_str": "1.02.0.00.0.00.02.0048",
+        "nama_satker": "PUSKESMAS RANCAEKEK DTP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314467,
+        "kd_satker_str": "1.02.0.00.0.00.02.0049",
+        "nama_satker": "PUSKESMAS RANCAMALAKA ENDAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314468,
+        "kd_satker_str": "1.02.0.00.0.00.02.0050",
+        "nama_satker": "PUSKESMAS RAWABOGO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314469,
+        "kd_satker_str": "1.02.0.00.0.00.02.0051",
+        "nama_satker": "PUSKESMAS SANGKANHURIP"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314470,
+        "kd_satker_str": "1.02.0.00.0.00.02.0052",
+        "nama_satker": "PUSKESMAS SANTOSA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314471,
+        "kd_satker_str": "1.02.0.00.0.00.02.0053",
+        "nama_satker": "PUSKESMAS SAWAHLEGA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314472,
+        "kd_satker_str": "1.02.0.00.0.00.02.0054",
+        "nama_satker": "PUSKESMAS SOLOKANJERUK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314473,
+        "kd_satker_str": "1.02.0.00.0.00.02.0055",
+        "nama_satker": "PUSKESMAS SOREANG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314474,
+        "kd_satker_str": "1.02.0.00.0.00.02.0056",
+        "nama_satker": "PUSKESMAS SUDI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314475,
+        "kd_satker_str": "1.02.0.00.0.00.02.0057",
+        "nama_satker": "PUSKESMAS SUGIHMUKTI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314476,
+        "kd_satker_str": "1.02.0.00.0.00.02.0058",
+        "nama_satker": "PUSKESMAS SUKAJADI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314477,
+        "kd_satker_str": "1.02.0.00.0.00.02.0059",
+        "nama_satker": "PUSKESMAS SUKAMANAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314478,
+        "kd_satker_str": "1.02.0.00.0.00.02.0060",
+        "nama_satker": "PUSKESMAS SUMBERSARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314479,
+        "kd_satker_str": "1.02.0.00.0.00.02.0061",
+        "nama_satker": "PUSKESMAS WANGISAGARA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314480,
+        "kd_satker_str": "1.02.0.00.0.00.02.0062",
+        "nama_satker": "PUSKESMAS WARNASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314481,
+        "kd_satker_str": "1.05.0.00.0.00.07.0000",
+        "nama_satker": "DINAS PEMADAMAN KEBAKARAN DAN PENYELAMATAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314482,
+        "kd_satker_str": "2.09.3.25.0.00.10.0000",
+        "nama_satker": "DINAS KETAHANAN PANGAN DAN PERIKANAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314483,
+        "kd_satker_str": "2.11.0.00.0.00.11.0001",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil Baleendah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314484,
+        "kd_satker_str": "2.11.0.00.0.00.11.0002",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil. Soreang"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314485,
+        "kd_satker_str": "2.11.0.00.0.00.11.0003",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil. Rancaekek"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314486,
+        "kd_satker_str": "2.11.0.00.0.00.11.0004",
+        "nama_satker": "UPTD Pengangkutan Sampah Wil. Ciparay"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314487,
+        "kd_satker_str": "2.11.0.00.0.00.11.0005",
+        "nama_satker": "UPTD Pengelolaan dan Pemanfaatan Sampah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314488,
+        "kd_satker_str": "2.11.0.00.0.00.11.0006",
+        "nama_satker": "UPTD Laboratorium Lingkungan"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314489,
+        "kd_satker_str": "2.14.2.08.0.00.14.0000",
+        "nama_satker": "DINAS PENGENDALIAN PENDUDUK, KB, PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314490,
+        "kd_satker_str": "2.15.0.00.0.00.15.0001",
+        "nama_satker": "UPT PENGELOLAAN TERMINAL"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314491,
+        "kd_satker_str": "2.15.0.00.0.00.15.0002",
+        "nama_satker": "UPT PENGELOLAAN PARKIR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314492,
+        "kd_satker_str": "2.15.0.00.0.00.15.0003",
+        "nama_satker": "UPT PENGUJIAN KENDARAAN BERMOTOR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314493,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI, INFORMATIKA DAN STATISTIK"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314494,
+        "kd_satker_str": "2.17.0.00.0.00.17.0001",
+        "nama_satker": "UPTD PLUTKUMKM"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314495,
+        "kd_satker_str": "3.27.0.00.0.00.22.0001",
+        "nama_satker": "UPTD ALAT MESIN PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314496,
+        "kd_satker_str": "3.27.0.00.0.00.22.0002",
+        "nama_satker": "UPTD RUMAH POTONG HEWAN DAN UNGGAS"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314497,
+        "kd_satker_str": "3.27.0.00.0.00.22.0003",
+        "nama_satker": "UPTD PENGEMBANGAN TEKNOLOGI PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314498,
+        "kd_satker_str": "3.27.0.00.0.00.22.0004",
+        "nama_satker": "UPTD PUSAT KESEHATAN HEWAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314499,
+        "kd_satker_str": "3.27.0.00.0.00.22.0005",
+        "nama_satker": "UPTD PASAR HEWAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314500,
+        "kd_satker_str": "3.27.0.00.0.00.22.0006",
+        "nama_satker": "UPTD PEMBIBITAN TERNAK RUMINANSIA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314501,
+        "kd_satker_str": "3.27.0.00.0.00.22.0007",
+        "nama_satker": "UPTD BALAI PELAKSANA PENYULUHAN PERTANIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314502,
+        "kd_satker_str": "5.01.5.05.0.00.26.0000",
+        "nama_satker": "BADAN PERENCANAAN PEMBANGUNAN, RISET DAN INOVASI DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314503,
+        "kd_satker_str": "5.02.0.00.0.00.28.0001",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah I Soreang"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314504,
+        "kd_satker_str": "5.02.0.00.0.00.28.0002",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah II Dayeuhkolot"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314505,
+        "kd_satker_str": "5.02.0.00.0.00.28.0003",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah III Ciparay"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314506,
+        "kd_satker_str": "5.02.0.00.0.00.28.0004",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah IV Majalaya"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314507,
+        "kd_satker_str": "5.02.0.00.0.00.28.0005",
+        "nama_satker": "UPTD Pelayanan Pajak Daerah Wilayah V Rancaekek"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314508,
+        "kd_satker_str": "7.01.0.00.0.00.03.0001",
+        "nama_satker": "KELURAHAN PADASUKA"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314509,
+        "kd_satker_str": "7.01.0.00.0.00.03.0002",
+        "nama_satker": "KELURAHAN CIBEUNYING"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314510,
+        "kd_satker_str": "7.01.0.00.0.00.05.0001",
+        "nama_satker": "KELURAHAN SULAIMAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314511,
+        "kd_satker_str": "7.01.0.00.0.00.18.0001",
+        "nama_satker": "Kelurahan Andir"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314512,
+        "kd_satker_str": "7.01.0.00.0.00.18.0002",
+        "nama_satker": "Kelurahan Baleendah"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314513,
+        "kd_satker_str": "7.01.0.00.0.00.18.0003",
+        "nama_satker": "Kelurahan Jelekong"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314514,
+        "kd_satker_str": "7.01.0.00.0.00.18.0004",
+        "nama_satker": "Kelurahan Manggahang"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 314515,
+        "kd_satker_str": "7.01.0.00.0.00.18.0005",
+        "nama_satker": "Kelurahan Wargamekar"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 351166,
+        "kd_satker_str": "5.01.5.05.0.00.26.0000",
+        "nama_satker": "BADAN PERENCANAAN PEMBANGUNAN, RISET DAN INOVASI DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 351167,
+        "kd_satker_str": "5.01.5.05.0.00.26.0000",
+        "nama_satker": "BADAN PERENCANAAN PEMBANGUNAN, RISET DAN INOVASI DAERAH"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 360879,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 360880,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 360881,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 361175,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 361176,
+        "kd_satker_str": "2.16.2.20.2.21.16.0000",
+        "nama_satker": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 369917,
+        "kd_satker_str": "1.02.0.00.0.00.02.0068",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS KERTASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 369918,
+        "kd_satker_str": "1.02.0.00.0.00.02.0069",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS CIMAUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 376128,
+        "kd_satker_str": "1.02.0.00.0.00.02.0077",
+        "nama_satker": "RSUD BEDAS KERTASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379009,
+        "kd_satker_str": "1.02.0.00.0.00.02.0070",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS ARJASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379010,
+        "kd_satker_str": "1.02.0.00.0.00.02.0071",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS TEGALLUAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379011,
+        "kd_satker_str": "2.15.0.00.0.00.15.0004",
+        "nama_satker": "UPT PENERANGAN JALAN UMUM"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379012,
+        "kd_satker_str": "7.01.0.00.0.00.07.0007",
+        "nama_satker": "KELURAHAN PASAWAHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379329,
+        "kd_satker_str": "1.02.0.00.0.00.02.0070",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS ARJASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379330,
+        "kd_satker_str": "1.02.0.00.0.00.02.0071",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS TEGALLUAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379331,
+        "kd_satker_str": "2.15.0.00.0.00.15.0004",
+        "nama_satker": "UPT PENERANGAN JALAN UMUM"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 379332,
+        "kd_satker_str": "7.01.0.00.0.00.07.0007",
+        "nama_satker": "KELURAHAN PASAWAHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 381023,
+        "kd_satker_str": "1.02.0.00.0.00.02.0071",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS TEGALLUAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 381024,
+        "kd_satker_str": "1.02.0.00.0.00.02.0069",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS CIMAUNG"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 381025,
+        "kd_satker_str": "1.02.0.00.0.00.02.0070",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS ARJASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 381026,
+        "kd_satker_str": "1.02.0.00.0.00.02.0068",
+        "nama_satker": "RUMAH SAKIT UMUM DAERAH BEDAS KERTASARI"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 381027,
+        "kd_satker_str": "2.15.0.00.0.00.15.0004",
+        "nama_satker": "UPT PENERANGAN JALAN UMUM"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 384155,
+        "kd_satker_str": "7.01.0.00.0.00.07.0007",
+        "nama_satker": "KELURAHAN PASAWAHAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 387484,
+        "kd_satker_str": "2.22.0.00.0.00.32.0000",
+        "nama_satker": "DINAS KEBUDAYAAN"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 389099,
+        "kd_satker_str": "3.26.0.00.0.00.33.0000",
+        "nama_satker": "DINAS PARIWISATA DAN EKONOMI KREATIF"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 8000094,
+        "kd_satker_str": null,
+        "nama_satker": "PUSKESMAS NAMBO"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 8000095,
+        "kd_satker_str": null,
+        "nama_satker": "PUSKESMAS NANJUNGMEKAR"
+    },
+    {
+        "kd_klpd": "D107",
+        "nama_klpd": "Kab. Bandung",
+        "jenis_klpd": "KABUPATEN",
+        "kd_satker": 8000133,
+        "kd_satker_str": null,
+        "nama_satker": "Dinas Kesehatan Kabupaten Bandung"
+    }
+]
