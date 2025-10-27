@@ -29,9 +29,8 @@ Dokumen ini memetakan keterkaitan antar-sampel dataset pengadaan yang terdapat p
 ## Korelasi Antar Dataset
 
 1. **Perencanaan ke Pelaksanaan**
-   - `kd_rup` disediakan pada paket RUP, SPSE tender, SPSE non-tender, dan e-Catalog sehingga secara struktur siap dipakai sebagai penghubung lintas tahap.【F:Docs/consolidated_datasamplesV2.json†L1973-L3219】【F:Docs/consolidated_datasamplesV2.json†L3259-L10180】【F:Docs/consolidated_datasamplesV2.json†L13320-L14041】【F:Docs/consolidated_datasamplesV2.json†L19613-L20165】
-   - Pada sampel V2, nilai `kd_rup` antar dataset tidak saling beririsan sehingga keterhubungan lintas tahap masih bersifat konseptual dan memerlukan data produksi penuh agar dapat dipakai untuk penelusuran aktual.【84de77†L1-L11】
-   - `kd_satker` dan `kd_klpd` hadir pada setiap dataset sehingga tetap bisa dipakai untuk agregasi berdasarkan instansi atau satuan kerja meski belum ada padanan paket satu-per-satu.【F:Docs/consolidated_datasamplesV2.json†L1973-L3219】【F:Docs/consolidated_datasamplesV2.json†L3259-L10180】【F:Docs/consolidated_datasamplesV2.json†L13320-L14041】【F:Docs/consolidated_datasamplesV2.json†L19613-L20165】
+   - `kd_rup` menghubungkan paket RUP (penyedia maupun swakelola) dengan pengumuman tender/non-tender SPSE serta paket e-Catalog. Hal ini memungkinkan penelusuran dari rencana awal ke pelaksanaan aktual.【F:Docs/consolidated_datasamplesV2.json†L1973-L19566】【F:Docs/consolidated_datasamplesV2.json†L3259-L11081】【F:Docs/consolidated_datasamplesV2.json†L15047-L19566】【F:Docs/consolidated_datasamplesV2.json†L21233-L21733】
+   - `kd_satker` dan `kd_klpd` konsisten di seluruh dataset, memudahkan agregasi berdasarkan satuan kerja atau instansi.【F:Docs/consolidated_datasamplesV2.json†L1973-L19566】【F:Docs/consolidated_datasamplesV2.json†L3259-L11081】【F:Docs/consolidated_datasamplesV2.json†L15047-L19566】【F:Docs/consolidated_datasamplesV2.json†L21233-L21733】
 
 2. **Metode Pengadaan dan Status Dikecualikan**
    - Metode dalam RUP (Pengadaan Langsung, E-Purchasing, Seleksi, Tender) memetakan paket perencanaan. `status_dikecualikan` hadir di RUP-Penyedia; bila `true`, detail alasan tersedia pada `alasan_dikecualikan`. Dalam sampel ini seluruh paket `false`, namun struktur siap untuk klasifikasi "dikecualikan" sebagai sub-kategori metode pengadaan tertentu.【F:Docs/consolidated_datasamplesV2.json†L1973-L3219】
