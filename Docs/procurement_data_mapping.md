@@ -47,7 +47,30 @@ Dokumen ini memetakan keterkaitan antar-sampel dataset pengadaan yang terdapat p
 5. **Sumber Dana**
    - Sumber dana dapat ditelusuri dari tahap perencanaan anggaran (kolom `sumber_dana` dan `asal_dana`) sampai tahap pelaksanaan (SPSE) dan e-Catalog. Contoh: paket dengan `sumber_dana` = APBD di RUP juga muncul sebagai APBD pada tender/non-tender dan pencatatan realisasi.【F:Docs/consolidated_datasamplesV2.json†L2571-L3903】【F:Docs/consolidated_datasamplesV2.json†L3259-L11081】【F:Docs/consolidated_datasamplesV2.json†L17461-L19566】【F:Docs/consolidated_datasamplesV2.json†L21281-L21683】
 
+## Kemampuan Filter & Kualitas Data
+
+- **Filter berdasarkan metode pengadaan**
+  - Paket RUP dapat difilter langsung memakai kolom `metode_pengadaan` (mis. pilih hanya `E-Purchasing`) dan status `status_umumkan_rup` bila ingin membatasi ke paket yang sudah diumumkan.【F:Docs/consolidated_datasamplesV2.json†L1984-L2076】【F:Docs/consolidated_datasamplesV2.json†L2018-L3219】
+  - Paket SPSE menyediakan kolom `mtd_pemilihan`, `mtd_evaluasi`, serta `status_tender`/`status_nontender` untuk memfilter proses tender, non-tender, atau melihat tahapan penyelesaian.【F:Docs/consolidated_datasamplesV2.json†L3259-L5112】【F:Docs/consolidated_datasamplesV2.json†L13320-L14041】【F:Docs/consolidated_datasamplesV2.json†L18604-L19568】
+  - Paket e-Catalog memiliki kolom `status_pkt` yang membedakan pesanan `ON_PROCESS` versus `PAYMENT_OUTSIDE_SYSTEM`, sehingga dapat diisolasi tahap pemesanan elektronik secara spesifik.【F:Docs/consolidated_datasamplesV2.json†L19613-L20165】
+
+- **Filter berdasarkan tahapan proses**
+  - Tahap perencanaan tercermin pada status RUP (`status_umumkan_rup`) dan rentang tanggal pemilihan/kontrak yang sudah ditentukan di sana.【F:Docs/consolidated_datasamplesV2.json†L1984-L2076】【F:Docs/consolidated_datasamplesV2.json†L2018-L3219】
+  - Tahap persiapan/pelaksanaan tender atau non-tender dapat difilter dengan `status_tender` dan `status_nontender` yang memuat nilai seperti `Selesai`, `Berlangsung`, atau `Gagal/Batal`.【F:Docs/consolidated_datasamplesV2.json†L3259-L5112】【F:Docs/consolidated_datasamplesV2.json†L13320-L14041】【F:Docs/consolidated_datasamplesV2.json†L18604-L19568】
+  - Informasi kontrak dan realisasi lanjutan tersedia pada dataset ekontrak/pencatatan yang memuat status kontrak serta bukti pembayaran, sehingga pengguna dapat menyaring paket di tahap kontrak hingga realisasi pembayaran.【F:Docs/consolidated_datasamplesV2.json†L5944-L11081】【F:Docs/consolidated_datasamplesV2.json†L14734-L19566】
+
+- **Potensi data ganda atau hilang**
+  - Tidak ditemukan duplikasi kunci utama (`kd_rup`, `kd_tender`, `kd_nontender`, `kd_paket`) di masing-masing dataset sampel, sehingga tidak ada paket ganda dalam file yang sama.【d18ba4†L1-L6】
+  - Validasi pada data produksi (folder `RawData_Endpoint`) menunjukkan beberapa dataset memang menyimpan banyak baris untuk satu kunci karena merekam tahapan berbeda—misalnya `18_1028_RUP-PaketAnggaranPenyedia` (4.941 baris tambahan untuk revisi anggaran), `19_1033_RUP-PaketAnggaranSwakelola` (11.324 baris tambahan), serta rangkaian SPSE NonTender Ekontrak/BAP/Realiasi yang menggandakan `kd_nontender` atau `kd_nontender_pct`. Ini perlu diperhitungkan saat agregasi agar tidak menghitung paket berulang.【da3112†L1-L16】
+  - Ketidakberirisan `kd_rup` antar dataset tetap terjadi bahkan pada data produksi, sehingga penelusuran lintas tahap perlu referensi eksternal atau konsolidasi tambahan untuk memetakan kode tersebut.【a043a5†L1-L29】
+
+## Validasi ke Data Produksi
+
+- Dataset produksi yang dicek: `18_1028_RUP-PaketAnggaranPenyedia.json`, `19_1033_RUP-PaketAnggaranSwakelola.json`, `21_1018_RUP-PaketPenyedia-Terumumkan.json`, `23_1030_RUP-PaketSwakelola-Terumumkan.json`, seri SPSE `32_1082` s.d. `48_1014`, serta `50_1213_Ecat-PaketEPurchasingV6.json` (seluruhnya sama seperti daftar pada `Docs/consolidated_datasamplesV2.json`).
+- Tidak ditemukan irisan `kd_rup` antara RUP, SPSE (tender/non-tender), maupun e-Catalog pada data produksi, sehingga keterhubungan lintas tahap masih bersifat konseptual dan memerlukan data tambahan untuk pemetaan langsung.【a043a5†L1-L29】
+- Perlu perlakuan khusus terhadap dataset yang mengizinkan beberapa catatan per kunci (mis. addendum kontrak atau pencatatan pembayaran) agar analisis tetap membedakan antara informasi paket dan informasi kejadian/peristiwa dalam paket yang sama.【da3112†L1-L16】
+
 ## Catatan Penggunaan Data
 
-- Seluruh analisis pada dokumen ini menggunakan sampel dari `Docs/consolidated_datasamplesV2.json`. Tidak ada data tambahan dari folder `RawData_Endpoint` yang digunakan.
+- Analisis awal mengacu pada sampel `Docs/consolidated_datasamplesV2.json`. Validasi tambahan dilakukan pada dataset produksi di `RawData_Endpoint` yang memiliki nama berpadanan dengan sampel untuk memastikan temuan terkait irisan kunci dan potensi duplikasi.
 
